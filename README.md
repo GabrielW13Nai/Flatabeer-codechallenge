@@ -21,7 +21,7 @@ $ json-server --watch db.json
 
 Test your server by visiting this route in the browser:
 
-[http://localhost:3000/beers](http://localhost:3000/beers)
+[s](http://localhost:3000/beers)
 
 Then, open the `index.html` file on your browser to run the application.
 

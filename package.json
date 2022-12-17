@@ -1,0 +1,18 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Today you'll be building an app for viewing and editing beers. You will be using a local API and building out the frontend for our app, FlataBeer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/gabriel13/Documents/Moringa/Phase-1/Phase-1-Code-Challenge-Flatabeer-092921/code-challenge.bundle"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
